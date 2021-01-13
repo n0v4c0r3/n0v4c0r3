@@ -14,7 +14,7 @@
   
 - 📫 How to reach me **pranaykalita2@gmail.com**  
   
-- ⚡ Fun fact **I can make anything works**  
+- ⚡ Fun fact **i will get the job done**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
