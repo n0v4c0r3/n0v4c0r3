@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0v4c0r3&label=Profile%20views&color=0e75b6&style=flat" alt="n0v4c0r3" /> </p>  
   
-- 🔭 I’m currently working on [WebDeveleopment](https://github.com/n0v4c0r3/coderscafe_new)  
+- 🔭 I’m currently working on [WebDevelopment](https://github.com/n0v4c0r3/coderscafe_new)  
   
 - 🌱 I’m currently learning **PHP ,Laravel, databases**  
   
